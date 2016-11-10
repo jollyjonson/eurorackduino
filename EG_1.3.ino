@@ -1,5 +1,5 @@
 // Envelope Generator - EURORACK - 0V-5V - V1.3 | 23.09.2016
-// circuit can be found here:
+// circuit can be found here: https://www.dropbox.com/s/khm8iyige1hl2hq/eg%20schematic.tiff?dl=0
 /**********************************************************/
 // Decleration / Initiation of global variables
 const int AnalogPin = 9 ; // PWM - Analog Pin 9
